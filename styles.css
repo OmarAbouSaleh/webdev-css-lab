@@ -1,0 +1,80 @@
+.page-home .banner img {
+   width: 131px;
+}
+.page-home header .banner {
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+.page-home h1 {
+    display: flex;
+    margin-left: 50px;
+}
+.page-home main {
+    display: flex;
+    flex-direction: column;
+}
+.name {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.email {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    gap: 10px;
+}
+.message {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    gap: 10px;
+}
+input[type=submit] {
+    width: 245px;
+    margin-top: 10px;
+}
+.submit {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: 120px;
+}
+ul {
+    list-style-type: none;
+}
+.page-selctor {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  
+}
+.main-home-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-left: 10%;
+    margin-right: 50%;
+} 
+
+.page-selector ul a{
+    text-decoration: none;
+    
+}
+.page-selctor ul a:hover{
+    background-color: #000  ;
+}
+.final {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-left: 10%;
+    margin-right: 50%;
+}
+footer {
+    text-align: center;
+}
